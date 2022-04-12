@@ -78,6 +78,7 @@ Additional constraints include
 
 - Arrays cannot be nested
 - Values of different types cannot be mixed
+- Strings within arrays cannot include the character `,`
 
 ## Table
 
